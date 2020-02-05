@@ -1,0 +1,26 @@
+{
+  "__inherits": "staxel/tileObject/moveable.config",
+  "categories": [
+    "furniture",
+	"xable",
+	"ladder",
+	"ranch"
+  ],
+  "code": "xable.sets.ranch.ladder",
+  "collision": true,
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 4,
+      "z": 1
+    }
+  },  
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 60,
+    "value": 100
+  },
+  "searchable": true,
+  "voxels": "mods/Xable's Sets/ranch/Ladder.qb"
+}

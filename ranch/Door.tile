@@ -1,0 +1,21 @@
+{
+  "__inherits": "staxel/tileObject/door/doorBase.config",
+  "categories": [
+	"xable",
+    "door",
+    "basic",
+    "wood",
+    "brown",
+	"ranch"
+  ],
+  "code": "xable.sets.ranch.door",
+  "customRendererVoxels": "mods/Xable's Sets/ranch/Door.qb",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 61,
+    "value": 103
+  },
+  "searchable": true,
+  "voxels": "mods/Xable's Sets/ranch/Door.qb"
+}

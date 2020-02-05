@@ -1,0 +1,24 @@
+{
+  "__inherits": "staxel/tileObject/stairs.config",
+  "aoFloor": false,
+  "categories": [
+    "xable",
+	"stairs",
+    "steps",
+    "block",
+    "ranch",
+    "wood",
+    "wooden",
+	"ranch"
+  ],
+  "code": "xable.sets.ranch.ramp.upsidedown",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 24,
+    "value": 41
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/Xable's Sets/ranch/RampUpsideDown.qb"
+}
